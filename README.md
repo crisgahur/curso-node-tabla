@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notas:
 Programa basado en Node
 
@@ -10,3 +11,7 @@ Options:
   -h, --hasta    Este indica hasta que numero desea multiplicar la base
                                                              [number] [required]
 ``` 
+=======
+# Informacion
+Tabla multiplicadora en node
+>>>>>>> 95103b0501e3e9fc4643aa5d9aec03f40739dd1a
